@@ -1,0 +1,18 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/zhang/myenv/bot/install/wit_ros2_imu/lib/python3.12/site-packages",
+        "/home/zhang/myenv/bot/install/sim2real/lib/python3.12/site-packages",
+        "/home/zhang/myenv/bot/install/serial_util/lib/python3.12/site-packages",
+        "/home/zhang/myenv/bot/install/ros_tcp_endpoint/lib/python3.12/site-packages",
+        "/home/zhang/myenv/bot/install/my_interfaces/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/zhang/myenv/bot/install/wit_ros2_imu/lib/python3.12/site-packages",
+        "/home/zhang/myenv/bot/install/sim2real/lib/python3.12/site-packages",
+        "/home/zhang/myenv/bot/install/serial_util/lib/python3.12/site-packages",
+        "/home/zhang/myenv/bot/install/ros_tcp_endpoint/lib/python3.12/site-packages",
+        "/home/zhang/myenv/bot/install/my_interfaces/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ]
+}

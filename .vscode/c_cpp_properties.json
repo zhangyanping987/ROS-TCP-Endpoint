@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/zhang/myenv/bot/install/serial/include/**",
+        "/home/zhang/myenv/bot/install/my_interfaces/include/**",
+        "/home/zhang/myenv/bot/src/serial_ros2/install/serial/include/**",
+        "/opt/ros/jazzy/include/**",
+        "/home/zhang/myenv/bot/src/fdilink_ahrs_ROS2/include/**",
+        "/home/zhang/myenv/bot/src/my_interfaces/include/**",
+        "/home/zhang/myenv/bot/src/serial_ros2/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
